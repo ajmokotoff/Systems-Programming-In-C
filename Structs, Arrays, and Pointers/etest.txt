@@ -1,0 +1,7 @@
+Employee:. Name = Harry Palmer, Salary = 50000
+Employee:. Name = Erik Grantby, Salary = 60000
+Employee:. Name = Andrew MokotoffWØ*, Salary = 100000
+Employee:. Name = John McCarty, Salary = 30000
+Employee2:. Name = Samuel Wilson, Salary = 13100
+Employee2:. Name = Naaman Fletcher, Salary = 169100
+Employee2:. Name = 1, Salary = 2525
